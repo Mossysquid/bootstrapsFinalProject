@@ -1,19 +1,25 @@
+html {
+  height: 100%;
+}
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
+  height: 100%;
 }
-
+#mainContainer {
+  height: 100%;
+}
 #BG {
   background-image: url(BG.jpg);
   -o-object-fit: cover;
      object-fit: cover;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 90vh;
+height: 95vh;
 }
 
 #bottomBar {
-  height: 10vh;
 }
 
 #HERO {
@@ -27,4 +33,7 @@ body {
 
 #THIRD {
   font-size: medium;
-}/*# sourceMappingURL=styles.css.map */
+}
+#bottomNavBar {
+
+}
