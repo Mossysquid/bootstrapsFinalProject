@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#BG{background-image: url(BG.jpg);
+object-fit: cover; background-repeat: no-repeat; 
+background-size: cover; height: 90vh;}
+#bottomBar{ height: 10vh;}
+#HERO{font-size:  calc(3.5rem + 1.5vw); font-style:bold;}
+#SECOND{ font-size: larger;}
+#THIRD{ font-size:medium;}
+#NAV{ }
