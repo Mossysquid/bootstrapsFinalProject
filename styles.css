@@ -1,6 +1,5 @@
-.col {
-    padding: 1rem;
-    background-color: aqua;
-    border: 2px solid white;
-    color: white;
+body {
+    margin: 0;
+    background-color: dimgrey;
+    padding: 0;
 }
